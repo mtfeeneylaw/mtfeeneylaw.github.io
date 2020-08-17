@@ -19,26 +19,18 @@ T 508.397.2583 | marytfeeneylaw.com
  
 ### Education
 
-J.D., with honors, Suffolk University Law School
-
-A.B., Mount Holyoke College
-
-Bar Admissions
-
+J.D., with honors, Suffolk University Law School  
+A.B., Mount Holyoke College  
+Bar Admissions  
 Commonwealth of Massachusetts
 
 ### Professional/Community
-Recipient, 2018 Government Affairs Award, NAIOP Massachusetts
-
-Director and Clerk, YWCA Central Massachusetts
-
-Trustee and Treasurer, Applewild School
-
-Member, National Association of College and University Attorneys
-
-Member, NAIOP Massachusetts Government Affairs Advisory Committee
-
-Member, Colleges and Universities Section, Boston Bar Association
+Recipient, 2018 Government Affairs Award, NAIOP Massachusetts  
+Director and Clerk, YWCA Central Massachusetts  
+Trustee and Treasurer, Applewild School  
+Member, National Association of College and University Attorneys  
+Member, NAIOP Massachusetts Government Affairs Advisory Committee  
+Member, Colleges and Universities Section, Boston Bar Association  
 
 ### Presentations
 “Risk Doctors: Applying Hard-Earned Lessons from Lawyers for Better Construction Project Outcomes,” 2019 Higher Education Real Estate Lawyers (HEREL) Conference, Los Angeles, California, October 18, 2019
