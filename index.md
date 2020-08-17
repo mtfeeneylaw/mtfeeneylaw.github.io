@@ -1,6 +1,9 @@
 ---
-title: Law Office of Mary T Feeney LLC 
-feature_text: 
+title: 
+feature_text:  # Law Office of Mary T Feeney LLC
+                mtf@marytfeeneylaw.com
+                T 508.397.2583 | marytfeeneylaw.com
+                5 Loon Road, Winchendon, MA 01475
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
