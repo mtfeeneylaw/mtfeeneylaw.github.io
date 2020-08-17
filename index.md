@@ -1,9 +1,6 @@
 ---
 title: 
 feature_text:  # Law Office of Mary T Feeney LLC
-                mtf@marytfeeneylaw.com
-                T 508.397.2583 | marytfeeneylaw.com
-                5 Loon Road, Winchendon, MA 01475
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
@@ -11,6 +8,14 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 Mary is a frequent lecturer on education law, construction, land use, and regulatory topics. In November 2018, she received the Government Affairs Award from NAIOP Massachusetts, and has been selected by her peers to be included among the Best Lawyers in America, 2008-2012 editions in the field of Education Law.
 
+
+**Contact:**  
+Mary T. Feeney  
+Law Office of Mary T. Feeney LLC  
+mtf@marytfeeneylaw.com  
+T 508.397.2583 | marytfeeneylaw.com  
+5 Loon Road, Winchendon, MA 01475
+ 
 ### Education
 
 J.D., with honors, Suffolk University Law School
