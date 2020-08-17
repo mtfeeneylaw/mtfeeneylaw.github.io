@@ -89,9 +89,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Law Office Mary T Feeney" # Site name or title, also used in jekyll-seo-tag
+title: "Law Office Mary T Feeney LLC" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Website for the Law Office of Mary T Feeney." # Site description and default description, also used in jekyll-seo-tag
+description: "Website for the Law Office of Mary T Feeney LLC." # Site description and default description, also used in jekyll-seo-tag
 url: "https://marytfeeneylaw.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: 
@@ -117,14 +117,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
+- title: Background
   url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
+
   
 navigation_footer:
 - title: Created by Mary Feeney
