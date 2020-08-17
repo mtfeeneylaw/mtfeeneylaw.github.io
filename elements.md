@@ -1,9 +1,10 @@
 ---
 title: 
 feature_text: |
-  add text here
+  Practice Areas
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: 
 aside: true
 ---
-add text here
+
+(Site In Progress)
