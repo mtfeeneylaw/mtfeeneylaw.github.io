@@ -1,6 +1,7 @@
 ---
 title: 
-feature_text:  # Law Office of Mary T Feeney LLC
+feature_text:  |
+# Law Office of Mary T Feeney LLC
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
@@ -12,7 +13,7 @@ Mary is a frequent lecturer on education law, construction, land use, and regula
 **Contact:**  
 Mary T. Feeney  
 Law Office of Mary T. Feeney LLC  
-mtf@marytfeeneylaw.com  
+[mtf@marytfeeneylaw.com](mailto:mtf@marytfeeneylaw.com)  
 T 508.397.2583 | marytfeeneylaw.com  
 5 Loon Road, Winchendon, MA 01475
  
