@@ -1,10 +1,8 @@
 ---
-title: 
+title: " "
 feature_text: |
   # Practice Areas
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: 
-aside: true
 ---
 
 ### Experience with Design and Construction Related Contracts
