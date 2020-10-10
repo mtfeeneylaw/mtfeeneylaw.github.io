@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 <img src="/assets/Feeney.jpg" alt="MFeeney" width="200" align="right" />  Mary Feeney is a seasoned business lawyer and advisor helping clients throughout the U.S. in the higher education, construction, and in the real estate development sector including general representation of colleges, universities and secondary schools, design and construction services, real estate development and land use, commercial and retail leasing, and facilities-related regulatory, code and licensing matters, drawing on her experience at a national Boston firm, as in-house counsel at Harvard University, and most recently as a partner at Bowditch & Dewey. 
 
-Mary is a frequent lecturer on education law, construction, land use, and regulatory topics. In November 2018, she received the Government Affairs Award from NAIOP Massachusetts, and has been selected by her peers to be included among the Best Lawyers in America, 2008-2012 editions in the field of Education Law.
+Mary is a frequent lecturer on education law, construction, land use, and regulatory topics. In November 2018, she received the Government Affairs Award from NAIOP Massachusetts, and has been selected by her peers to be included among the Best Lawyers in America, 2008-2021 editions in the field of Education Law.
 
 
 **Contact:**  
